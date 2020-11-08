@@ -6,10 +6,10 @@ Employee attrition refers to employees’ loss through a natural process, such a
 We will be looking into the factors that lead to employee attrition in a company using a dataset that was fictionally created by data scientists at IBM to explore similar cases.
 
 # Technologies used
- ###Jupyter notebook
- ###Pandas library
- ###Numpy library
- ###Matplotlib library
- ###Seaborn library
+ ##Jupyter notebook
+ ##Pandas library
+ ##Numpy library
+ ##Matplotlib library
+ ##Seaborn library
 # License
 MIT License Copyright (c) 2020 Joseph Nyingi
